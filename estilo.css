@@ -9,3 +9,7 @@ body{
 img{
     width: 320px;
 }
+
+img:hover {
+    transform: scaleX(-1);
+  }
